@@ -1,0 +1,5 @@
+{
+  "name": "Visitor Pass Management System",
+  "description": "A MERN-based digital visitor registration, QR pass, appointment, check-in/check-out, notification, and reporting system.",
+  "requestFramePermissions": ["camera"]
+}
